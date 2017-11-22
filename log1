@@ -1,0 +1,126 @@
+----------------------------  Take a new deck -----------------------------------------------
+
+----------------------------  Shuffling the cards -----------------------------------------------
+
+----------------------------  After shuffle, the deck looks like this -----------------------------------------------
+
+SPADE-THREE
+SPADE-THREE
+CLUB-FIVE
+CLUB-TEN
+SPADE-THREE
+SPADE-THREE
+SPADE-THREE
+CLUB-FOUR
+CLUB-ACE
+SPADE-THREE
+SPADE-THREE
+CLUB-FOUR
+CLUB-FIVE
+CLUB-FOUR
+SPADE-THREE
+CLUB-KING
+CLUB-SEVEN
+CLUB-FOUR
+CLUB-ACE
+SPADE-ACE
+DIAMOND-SEVEN
+DIAMOND-SEVEN
+SPADE-THREE
+SPADE-ACE
+SPADE-ACE
+SPADE-THREE
+SPADE-THREE
+CLUB-THREE
+SPADE-THREE
+SPADE-THREE
+SPADE-THREE
+SPADE-THREE
+CLUB-FOUR
+SPADE-ACE
+CLUB-TEN
+SPADE-THREE
+DIAMOND-SEVEN
+CLUB-FIVE
+SPADE-THREE
+DIAMOND-SIX
+CLUB-FOUR
+CLUB-FIVE
+SPADE-EIGHT
+DIAMOND-SEVEN
+SPADE-NINE
+HEART-FIVE
+DIAMOND-SIX
+SPADE-THREE
+SPADE-EIGHT
+CLUB-FIVE
+CLUB-ACE
+SPADE-EIGHT
+----------------------------  Take a new deck -----------------------------------------------
+
+----------------------------  Shuffling  again  -----------------------------------------------
+
+----------------------------  Dealing 52 cards  -----------------------------------------------
+
+CLUB-ACE
+CLUB-ACE
+HEART-TEN
+CLUB-ACE
+CLUB-JACK
+CLUB-TEN
+CLUB-JACK
+CLUB-TWO
+CLUB-TEN
+CLUB-ACE
+CLUB-ACE
+HEART-TEN
+CLUB-ACE
+CLUB-KING
+CLUB-ACE
+CLUB-TEN
+DIAMOND-FOUR
+CLUB-TWO
+CLUB-FIVE
+CLUB-ACE
+CLUB-ACE
+CLUB-ACE
+HEART-TEN
+HEART-TEN
+HEART-TEN
+CLUB-ACE
+CLUB-TEN
+HEART-TEN
+CLUB-ACE
+SPADE-QUEEN
+HEART-TEN
+CLUB-FIVE
+CLUB-ACE
+DIAMOND-THREE
+HEART-TWO
+SPADE-QUEEN
+CLUB-THREE
+CLUB-THREE
+CLUB-TEN
+DIAMOND-SIX
+HEART-TEN
+HEART-TEN
+SPADE-SEVEN
+CLUB-ACE
+SPADE-SEVEN
+HEART-TEN
+CLUB-KING
+CLUB-ACE
+CLUB-ACE
+SPADE-QUEEN
+SPADE-SEVEN
+CLUB-TWO
+----------------------------  Dealing 53rd card  -----------------------------------------------
+
+No cards left to deal
+----------------------------  Take a new deck -----------------------------------------------
+
+----------------------------  Deal 1 card  -----------------------------------------------
+
+CLUB-ACE
+----------------------------  All test cases passed  -----------------------------------------------
+
